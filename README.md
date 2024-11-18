@@ -1,4 +1,4 @@
 # demo_repo
 This is my  first repository.
 <br>
-Author - Om Khinde
+Author - <Om Khinde>
